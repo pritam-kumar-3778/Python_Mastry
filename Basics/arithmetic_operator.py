@@ -1,0 +1,9 @@
+a = 2
+b = 7
+print("Sum = ", a + b)
+print("Difference = ", b - a)
+print("Product = ", a * b) 
+print("Quotient = ", b / a)
+print("Floor Division = ", b // a)
+print("Remainder = ", b % a)
+print("Exponent = ", a **  b)
