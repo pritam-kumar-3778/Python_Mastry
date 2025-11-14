@@ -1,4 +1,4 @@
-# Search for a number x in a tuple using loop
+# Search for a number x in a tuple using loop (This is also called Linier search in programming.)
 
 tup = (5, 10, 15, 20, 25, 20)
 
