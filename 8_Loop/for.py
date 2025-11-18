@@ -2,7 +2,7 @@
 
 nums = [1, 2, 3, 4, 5]
 
-for item in nums:
+for item in nums: # in --> membership Operator
     print(item)
 
 
