@@ -1,0 +1,19 @@
+Given a list of Tuples with info(name, subject):
+
+1 : Print all courses information
+2 : Print all first index that is name
+3 : Print all second index that is subject
+4 : List all unique Course
+5 : List Student enroll in CS
+6 : create dictionary (student, set of courses)
+
+
+info = [
+    ("Pritam", "Math"),
+    ("Sritam", "English"),
+    ("Pritesh", "Math"),
+    ("Sakhi", "Science"),
+    ("Anurag", "Biology"),
+    ("Soumya", "CS"),
+    ("Pratyush", "CS"),
+]
