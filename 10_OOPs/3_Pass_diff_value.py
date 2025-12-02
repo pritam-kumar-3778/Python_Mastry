@@ -1,7 +1,7 @@
 class student:
-    def __init__(self, name, course):
-        self.name = name
-        self.course = course
+    def __init__(self, name, course): # Parameterized constructor , Instance attribute
+        self.name = name # Instance attribute
+        self.course = course # Instance attribute
 
 stu1 = student("pritam", "MCA")
 stu2 = student("Anurag", "MSC CMB")

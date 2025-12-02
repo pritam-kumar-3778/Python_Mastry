@@ -1,10 +1,10 @@
 class student:
-    def __init__(self, name, course):
-        self.name = name
-        self.course = course
+    def __init__(self, name, course):  # Instance attribute, Parameterized constructor
+        self.name = name # Instance attribute
+        self.course = course # Instance attribute
 
-    def get_course(self):
-        return self.course
+    def get_course(self): # Instance Method
+        return self.course # Instance Method
 
 
 stu1 = student("pritam", "MCA")
