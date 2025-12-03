@@ -1,4 +1,4 @@
-# Class attribute and Insance attribute
+# Class attribute and Instance attribute
 class student:
     College_Name = "ABC Colege"  # class attribute
 
@@ -12,8 +12,8 @@ stu2 = student("Sritam", 102, 9.5)
 
 print(stu1.name, stu1.College_Name)
 # We can access class attribute by object name or class name
-# Object having heigher priority bcz we access both attribute by object 
-# But only access class attribute by class.
+# Object having heigher priority bcz we access both attribute (Class and instance) by object 
+# class attribute only be accessiable with class name
 
 print(stu2.name, student.College_Name)
 
