@@ -1,4 +1,4 @@
-# In Python there is no true protected or Private attribute.
+# In Python there is no true protected or Private attribute. By convension developer use it only.
 # We can access private attribute by : objectname._Classname__private attribute
 
 class BankAccount:
