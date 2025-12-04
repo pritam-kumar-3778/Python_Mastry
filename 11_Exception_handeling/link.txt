@@ -1,0 +1,3 @@
+For built in exception in python
+
+https://www.w3schools.com/python/python_ref_exceptions.asp
